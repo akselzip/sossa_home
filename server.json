@@ -1,0 +1,4 @@
+{
+server = "MySQL"
+server1 = "ngnix"
+}
